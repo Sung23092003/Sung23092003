@@ -78,9 +78,9 @@ I love clean code, modern UI/UX, and continuously learning new technologies to s
 
 <h2 align="center">🔥 Proud to be Vietnamese — Ready for the World 🇻🇳🌍</h2>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Sung23092003&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
