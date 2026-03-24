@@ -84,7 +84,7 @@ I love clean code, modern UI/UX, and continuously learning new technologies to s
 
 <details align="center">
   <summary style="cursor: pointer; font-size: 18px; font-weight: bold;">
-    🇻🇳 Click để bật chế độ Việt Nam 🔥
+    🇻🇳 Click now 🔥
   </summary>
 
   <br/>
@@ -96,19 +96,12 @@ I love clean code, modern UI/UX, and continuously learning new technologies to s
   <p align="center">
     <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
   </p>
-
-  <h3 align="center">🔥 Proud Vietnamese Developer 🇻🇳</h3>
-
-  <p align="center">
-    Building global products with Vietnamese spirit 🚀
-  </p>
-
 </details>
 
 <!-- <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Sung23092003&theme=tokyonight" />
 </p> -->
 
-<!-- <p align="center">
-<img src="https://ik.imagekit.io/tvlk/blog/2025/03/quan-the-di-tich-co-do-hue-2-1024x576.jpg?tr=q-70,c-at_max,w-1000,h-600" />
-</p> -->
+ <p align="center">
+<img src="https://d4.violet.vn/uploads/blogs/737149/_hue_thuong_500.gif" />
+</p> 
