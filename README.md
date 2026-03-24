@@ -44,7 +44,7 @@ I love clean code, modern UI/UX, and continuously learning new technologies to s
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="42"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TB9d5YXwtKhv4NWbpeTBVveYvcxu9gMJng&s" width="42"/>
 </p>
 
 ---
