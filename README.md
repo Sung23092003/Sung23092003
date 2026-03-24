@@ -83,5 +83,5 @@ I love clean code, modern UI/UX, and continuously learning new technologies to s
 </p> -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+<img src="https://ik.imagekit.io/tvlk/blog/2025/03/quan-the-di-tich-co-do-hue-2-1024x576.jpg?tr=q-70,c-at_max,w-1000,h-600" />
 </p>
