@@ -78,10 +78,37 @@ I love clean code, modern UI/UX, and continuously learning new technologies to s
 
 <h2 align="center">🔥 Proud to be Vietnamese — Ready for the World 🇻🇳🌍</h2>
 
+---
+
+<h2 align="center">⚡ Interactive Zone</h2>
+
+<details align="center">
+  <summary style="cursor: pointer; font-size: 18px; font-weight: bold;">
+    🇻🇳 Click để bật chế độ Việt Nam 🔥
+  </summary>
+
+  <br/>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Sung23092003/Sung23092003/output/snake-neon.svg" width="500"/>
+  </p>
+
+  <p align="center">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
+  </p>
+
+  <h3 align="center">🔥 Proud Vietnamese Developer 🇻🇳</h3>
+
+  <p align="center">
+    Building global products with Vietnamese spirit 🚀
+  </p>
+
+</details>
+
 <!-- <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Sung23092003&theme=tokyonight" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://ik.imagekit.io/tvlk/blog/2025/03/quan-the-di-tich-co-do-hue-2-1024x576.jpg?tr=q-70,c-at_max,w-1000,h-600" />
-</p>
+</p> -->
